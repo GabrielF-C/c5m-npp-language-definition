@@ -18,7 +18,7 @@
 
 - Foldable blocks with nesting (put `#end` on the last line of your block)
 
-- Comments must be prefixed with `##`
+- Comments must be prefixed with `##` to be highlighted
 
 ### Preview
 
